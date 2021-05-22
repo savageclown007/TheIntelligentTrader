@@ -1,10 +1,10 @@
-# calculator
+# The Intelligent Trader
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made for the purpose of learning the basics of flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
